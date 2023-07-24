@@ -4,4 +4,4 @@
 - bar
 - baz
 
-<size=30><color=#E1FF00><u><link="update">Test link</link></u></color></size>
+<size=30><a href="https://verkel.github.io/bukkit-rokkit">Test link</a></size>
